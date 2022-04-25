@@ -1,0 +1,9 @@
+
+{
+  "name": "richstatus",
+  "version": "1.0.0",
+  "description": "Lets you use discords rich presence integration to set a super detailed status.",
+  "main": "rpc.js",
+  "author": "",
+  "license": "ISC"
+}
